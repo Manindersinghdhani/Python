@@ -8,10 +8,10 @@ from twilio.rest import Client
 
 
 API_Endpoint= "https://api.openweathermap.org/data/2.5/forecast"
-api_key ="6fa100a830359497394f191bd61c1a33"
+api_key =<Key>
 
 account_sid=<Account_id>
-auth_token=<Key>
+auth_token=<Token_Key>
 
 weather_params={
     "lat":17.4065,
